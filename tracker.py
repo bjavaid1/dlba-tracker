@@ -2,17 +2,12 @@ import os
 import json
 import subprocess
 import requests
-from sendgrid import SendGridAPIClient
-from sendgrid.helpers.mail import Mail
 
 # --- Configuration ---
-# API Endpoint for DLBA Owned Properties
 API_URL = "https://arcgis.com"
 STATE_FILE = "data_state.json"
 NEIGHBORHOOD = "Warren Ave Community"
 
-# Query parameters tailored for your neighborhood
-# Note: URL encoding of space is handled automatically by requests
 params = {
     'where': f"Neighborhood = '{NEIGHBORHOOD}'",
     'outFields': 'Parcel_Number,Address,Inventory_Status,Sale_Price,Property_Class',
@@ -26,7 +21,6 @@ def fetch_live_data():
         response.raise_for_status()
         data = response.json()
         
-        # Parse features into a dictionary keyed by Parcel_Number for easy comparison
         live_records = {}
         for feature in data.get('features', []):
             attrs = feature.get('attributes', {})
@@ -60,7 +54,6 @@ def commit_state_to_github():
         subprocess.run(["git", "config", "--local", "user.name", "GitHub Action Tracker"], check=True)
         subprocess.run(["git", "add", STATE_FILE], check=True)
         
-        # Check if there are actually changes to commit
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
         if status.stdout.strip():
             subprocess.run(["git", "commit", "-m", "chore: update tracking state [skip ci]"], check=True)
@@ -97,7 +90,7 @@ def send_notification(html_content):
 
     try:
         response = requests.post(url, json=payload, headers=headers, timeout=15)
-        if response.status_code in [200, 201]:
+        if response.status_code in:
             print("Email sent successfully via Brevo.")
         else:
             print(f"Brevo API error: {response.status_code} - {response.text}")
@@ -114,7 +107,6 @@ def main():
 
     previous_data = load_previous_state()
     
-    # If there is no history file, initialize it and exit silently on run #1
     if not previous_data:
         print("No previous state found. Initializing tracking ledger with baseline data.")
         save_current_state(live_data)
@@ -125,13 +117,11 @@ def main():
     deleted_records = []
     changed_records = []
 
-    # 1. Check for New and Changed properties
     for parcel, live_attr in live_data.items():
         if parcel not in previous_data:
             new_records.append(live_attr)
         else:
             prev_attr = previous_data[parcel]
-            # Compare key traits to look for updates (status adjustments, price drops, etc.)
             changes = {}
             for key in ['Inventory_Status', 'Sale_Price', 'Property_Class']:
                 if str(live_attr.get(key)) != str(prev_attr.get(key)):
@@ -140,12 +130,10 @@ def main():
             if changes:
                 changed_records.append({"address": live_attr.get('Address'), "parcel": parcel, "changes": changes})
 
-    # 2. Check for Deleted properties (Sold or removed from inventory entirely)
     for parcel, prev_attr in previous_data.items():
         if parcel not in live_data:
             deleted_records.append(prev_attr)
 
-    # 3. If changes occurred, construct the email
     if new_records or deleted_records or changed_records:
         print("Changes detected! Synthesizing alert payload...")
         html = f"<h2>DLBA Property Activity Update — {NEIGHBORHOOD}</h2>"
@@ -175,7 +163,6 @@ def main():
     else:
         print("Scan finished. Data matches perfectly with baseline. No updates needed.")
 
-    # Always update the database tracking state at the end
     save_current_state(live_data)
     commit_state_to_github()
 
