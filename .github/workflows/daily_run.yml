@@ -1,0 +1,26 @@
+name: Run Daily Property Tracker
+
+on:
+  schedule:
+    - cron: '0 13 * * *' # Runs every day at 1:00 PM UTC (9:00 AM Detroit time)
+  workflow_dispatch: # Allows you to also trigger it manually from GitHub
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-python: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script
+        env:
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }} # Keeps your email password secure
+        run: python tracker.py
