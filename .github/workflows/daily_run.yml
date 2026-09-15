@@ -2,15 +2,20 @@ name: Run Daily Property Tracker
 
 on:
   schedule:
-    - cron: '0 13 * * *' # 9:00 AM Detroit time daily
-  workflow_dispatch: # This allows you to manually test it right now!
+    - cron: '0 14 * * *' # 10:00 AM EDT / 9:00 AM EST
+  workflow_dispatch: # Allows manual testing
 
 permissions:
-  contents: write # Crucial: Allows the script to save data_state.json to your repo
+  contents: write
+
+concurrency:
+  group: dlba-property-tracker
+  cancel-in-progress: false
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository code
         uses: actions/checkout@v4
@@ -21,7 +26,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install -r requirements.txt
 
       - name: Run script
         env:
