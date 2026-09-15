@@ -72,28 +72,37 @@ def commit_state_to_github():
         print(f"Failed to commit state back to repository: {e}")
 
 def send_notification(html_content):
-    """Sends the alert via SendGrid API."""
-    from_email = os.environ.get('SENDGRID_FROM_EMAIL')
+    """Sends the alert via Brevo's permanently free API."""
+    api_key = os.environ.get('BREVO_API_KEY')
+    from_email = os.environ.get('BREVO_FROM_EMAIL')
     to_email = os.environ.get('NOTIFICATION_TO_EMAIL')
-    api_key = os.environ.get('SENDGRID_API_KEY')
     
-    if not all([from_email, to_email, api_key]):
-        print("Missing SendGrid environment variables. Cannot send email.")
-        print(html_content)  # Print to logs so you don't lose the data
+    if not all([api_key, from_email, to_email]):
+        print("Missing Brevo environment variables. Printing HTML to logs:")
+        print(html_content)
         return
 
-    message = Mail(
-        from_email=from_email,
-        to_emails=to_email,
-        subject=f"⚠️ DLBA Property Alert: Changes in {NEIGHBORHOOD}",
-        html_content=html_content
-    )
+    url = "https://brevo.com"
+    headers = {
+        "accept": "application/json",
+        "content-type": "application/json",
+        "api-key": api_key
+    }
+    payload = {
+        "sender": {"email": from_email, "name": "DLBA Property Tracker"},
+        "to": [{"email": to_email}],
+        "subject": f"⚠️ DLBA Property Alert: Changes in {NEIGHBORHOOD}",
+        "htmlContent": html_content
+    }
+
     try:
-        sg = SendGridAPIClient(api_key)
-        response = sg.send(message)
-        print(f"Email sent successfully. Status code: {response.status_code}")
+        response = requests.post(url, json=payload, headers=headers, timeout=15)
+        if response.status_code in [200, 201]:
+            print("Email sent successfully via Brevo.")
+        else:
+            print(f"Brevo API error: {response.status_code} - {response.text}")
     except Exception as e:
-        print(f"Failed to send email via SendGrid: {e}")
+        print(f"Failed to send email via Brevo: {e}")
 
 def main():
     print(f"Starting property scan for: {NEIGHBORHOOD}")
