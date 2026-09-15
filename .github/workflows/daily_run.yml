@@ -3,10 +3,10 @@ name: Run Daily Property Tracker
 on:
   schedule:
     - cron: '0 13 * * *' # 9:00 AM Detroit time daily
-  workflow_dispatch:
+  workflow_dispatch: # This allows you to manually test it right now!
 
 permissions:
-  contents: write # Crucial: Allows GitHub Action to save the JSON file back to your repo
+  contents: write # Crucial: Allows the script to save data_state.json to your repo
 
 jobs:
   run-script:
@@ -21,11 +21,11 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests sendgrid
+        run: pip install requests
 
       - name: Run script
         env:
-          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
-          SENDGRID_FROM_EMAIL: ${{ secrets.SENDGRID_FROM_EMAIL }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_FROM_EMAIL: ${{ secrets.BREVO_FROM_EMAIL }}
           NOTIFICATION_TO_EMAIL: ${{ secrets.NOTIFICATION_TO_EMAIL }}
         run: python tracker.py
