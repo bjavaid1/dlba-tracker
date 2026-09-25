@@ -1,367 +1,13 @@
 {
-  "22072154.": {
-    "Parcel_Number": "22072154.",
-    "Address": "7763 Archdale",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058041.": {
-    "Parcel_Number": "22058041.",
-    "Address": "8105 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059378-9": {
-    "Parcel_Number": "22059378-9",
-    "Address": "8421 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001801-2": {
-    "Parcel_Number": "22001801-2",
-    "Address": "16250 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059655.": {
-    "Parcel_Number": "22059655.",
-    "Address": "8260 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001094.": {
-    "Parcel_Number": "22001094.",
-    "Address": "15703 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059634.": {
-    "Parcel_Number": "22059634.",
-    "Address": "8034 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22057010.002": {
-    "Parcel_Number": "22057010.002",
-    "Address": "8280 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060779.": {
-    "Parcel_Number": "22060779.",
-    "Address": "8515 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22052845.": {
-    "Parcel_Number": "22052845.",
-    "Address": "7720 Montrose",
-    "Inventory_Status": "Oversized Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070813.": {
-    "Parcel_Number": "22070813.",
-    "Address": "7703 Longacre",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058059.": {
-    "Parcel_Number": "22058059.",
-    "Address": "7821 Mansfield",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060798.": {
-    "Parcel_Number": "22060798.",
-    "Address": "8401 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060804.": {
-    "Parcel_Number": "22060804.",
-    "Address": "8279 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056741.": {
-    "Parcel_Number": "22056741.",
-    "Address": "8097 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001100.": {
-    "Parcel_Number": "22001100.",
-    "Address": "15727 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060785.": {
-    "Parcel_Number": "22060785.",
-    "Address": "8485 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058040.": {
-    "Parcel_Number": "22058040.",
-    "Address": "8111 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059391.": {
-    "Parcel_Number": "22059391.",
-    "Address": "8267 ST MARYS",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056745-6": {
-    "Parcel_Number": "22056745-6",
-    "Address": "8061 Rutherford",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001104.": {
-    "Parcel_Number": "22001104.",
-    "Address": "15737 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22069072.": {
-    "Parcel_Number": "22069072.",
-    "Address": "7747 Rutland",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060827.": {
-    "Parcel_Number": "22060827.",
-    "Address": "8047 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001095-6": {
-    "Parcel_Number": "22001095-6",
-    "Address": "15707 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059487.": {
-    "Parcel_Number": "22059487.",
-    "Address": "6793 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059449.": {
-    "Parcel_Number": "22059449.",
-    "Address": "7427 ST MARYS",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001798-9": {
-    "Parcel_Number": "22001798-9",
-    "Address": "16310 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22053430.": {
-    "Parcel_Number": "22053430.",
-    "Address": "7807 Montrose",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058049.": {
-    "Parcel_Number": "22058049.",
-    "Address": "8047 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056823.": {
-    "Parcel_Number": "22056823.",
-    "Address": "6885 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060831.": {
-    "Parcel_Number": "22060831.",
-    "Address": "7841 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058114.": {
-    "Parcel_Number": "22058114.",
-    "Address": "7257 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070946.": {
-    "Parcel_Number": "22070946.",
-    "Address": "7754 Archdale",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058327.": {
-    "Parcel_Number": "22058327.",
-    "Address": "8220 St Marys",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059668.": {
-    "Parcel_Number": "22059668.",
-    "Address": "8418 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22065261.": {
-    "Parcel_Number": "22065261.",
-    "Address": "6879 Grandmont",
-    "Inventory_Status": "DLBA Owned Structure",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059602.": {
-    "Parcel_Number": "22059602.",
-    "Address": "7460 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058079.": {
-    "Parcel_Number": "22058079.",
-    "Address": "7543 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22068522.": {
-    "Parcel_Number": "22068522.",
-    "Address": "6890 Rutland",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22053484.": {
-    "Parcel_Number": "22053484.",
-    "Address": "6891 Montrose",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060811-2": {
-    "Parcel_Number": "22060811-2",
-    "Address": "8229 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056740.": {
-    "Parcel_Number": "22056740.",
-    "Address": "8099 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
   "22068382.": {
     "Parcel_Number": "22068382.",
     "Address": "7426 Clayburn",
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
-  "22070805.": {
-    "Parcel_Number": "22070805.",
-    "Address": "7771 Longacre",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001091.": {
-    "Parcel_Number": "22001091.",
-    "Address": "15671 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056778.": {
-    "Parcel_Number": "22056778.",
-    "Address": "7545 Rutherford",
-    "Inventory_Status": "Side Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059442.": {
-    "Parcel_Number": "22059442.",
-    "Address": "7485 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001142.": {
-    "Parcel_Number": "22001142.",
-    "Address": "16325 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22064636.": {
-    "Parcel_Number": "22064636.",
-    "Address": "7296 Grandmont",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060778.": {
-    "Parcel_Number": "22060778.",
-    "Address": "16300 Van Buren",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001231.": {
-    "Parcel_Number": "22001231.",
-    "Address": "17619 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22061090.": {
-    "Parcel_Number": "22061090.",
-    "Address": "8620 Asbury Park",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22068577.": {
-    "Parcel_Number": "22068577.",
-    "Address": "7756 Rutland",
-    "Inventory_Status": "Side Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22061036.": {
-    "Parcel_Number": "22061036.",
-    "Address": "8036 Asbury Park",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058330-1": {
-    "Parcel_Number": "22058330-1",
-    "Address": "8240 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070924.": {
-    "Parcel_Number": "22070924.",
-    "Address": "7240 Archdale",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056743.": {
-    "Parcel_Number": "22056743.",
-    "Address": "8083 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22062455.": {
-    "Parcel_Number": "22062455.",
-    "Address": "7336 Woodmont",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056747.": {
-    "Parcel_Number": "22056747.",
-    "Address": "8055 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060905.": {
-    "Parcel_Number": "22060905.",
-    "Address": "6785 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22072174.": {
-    "Parcel_Number": "22072174.",
-    "Address": "7263 Archdale",
+  "22061092.": {
+    "Parcel_Number": "22061092.",
+    "Address": "8640 Asbury Park",
     "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
@@ -371,603 +17,21 @@
     "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
-  "22058056.": {
-    "Parcel_Number": "22058056.",
-    "Address": "7843 Mansfield",
-    "Inventory_Status": "DLBA Owned Structure",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070202.": {
-    "Parcel_Number": "22070202.",
-    "Address": "6530 Longacre",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056935.": {
-    "Parcel_Number": "22056935.",
-    "Address": "7326 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22068572.": {
-    "Parcel_Number": "22068572.",
-    "Address": "7728 Rutland",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001838-9": {
-    "Parcel_Number": "22001838-9",
-    "Address": "16010 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058295.": {
-    "Parcel_Number": "22058295.",
-    "Address": "7764 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056989.": {
-    "Parcel_Number": "22056989.",
-    "Address": "8040 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059651.": {
-    "Parcel_Number": "22059651.",
-    "Address": "8230 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059562.": {
-    "Parcel_Number": "22059562.",
-    "Address": "6816 Mettetal",
-    "Inventory_Status": "DLBA Owned Structure",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060805.": {
-    "Parcel_Number": "22060805.",
-    "Address": "8275 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059443.": {
-    "Parcel_Number": "22059443.",
-    "Address": "7475 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
   "22070955.": {
     "Parcel_Number": "22070955.",
     "Address": "7824 Archdale",
     "Inventory_Status": "Oversized Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
-  "22070800.": {
-    "Parcel_Number": "22070800.",
-    "Address": "7811 Longacre",
-    "Inventory_Status": "Side Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058121.": {
-    "Parcel_Number": "22058121.",
-    "Address": "6907 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060813.": {
-    "Parcel_Number": "22060813.",
-    "Address": "8219 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056829.": {
-    "Parcel_Number": "22056829.",
-    "Address": "6843 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22061037.": {
-    "Parcel_Number": "22061037.",
-    "Address": "8046 Asbury Park",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056987.": {
-    "Parcel_Number": "22056987.",
-    "Address": "8026 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22072177.": {
-    "Parcel_Number": "22072177.",
-    "Address": "7241 Archdale",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059653.": {
-    "Parcel_Number": "22059653.",
-    "Address": "8240 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22067993-4": {
-    "Parcel_Number": "22067993-4",
-    "Address": "6711 Memorial",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22072751.": {
-    "Parcel_Number": "22072751.",
-    "Address": "6700 Southfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060830.": {
-    "Parcel_Number": "22060830.",
-    "Address": "8027 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059380.": {
-    "Parcel_Number": "22059380.",
-    "Address": "8411 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22065930.": {
-    "Parcel_Number": "22065930.",
-    "Address": "6342 Abington Ave",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22057003.": {
-    "Parcel_Number": "22057003.",
-    "Address": "8216 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059414.": {
-    "Parcel_Number": "22059414.",
-    "Address": "8029 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22067442.": {
-    "Parcel_Number": "22067442.",
-    "Address": "6916 Memorial",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058286.": {
-    "Parcel_Number": "22058286.",
-    "Address": "7700 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22053519-20": {
-    "Parcel_Number": "22053519-20",
-    "Address": "6567 Montrose",
-    "Inventory_Status": "Oversized Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22072737.001": {
-    "Parcel_Number": "22072737.001",
-    "Address": "6314 Southfield",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059660-1": {
-    "Parcel_Number": "22059660-1",
-    "Address": "8294 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059665.": {
-    "Parcel_Number": "22059665.",
-    "Address": "8402 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056735.": {
-    "Parcel_Number": "22056735.",
-    "Address": "8221 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060817.": {
-    "Parcel_Number": "22060817.",
-    "Address": "8199 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22057010.001": {
-    "Parcel_Number": "22057010.001",
-    "Address": "8270 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001803.": {
-    "Parcel_Number": "22001803.",
-    "Address": "16246 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070923.": {
-    "Parcel_Number": "22070923.",
-    "Address": "7234 Archdale",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22067415.": {
-    "Parcel_Number": "22067415.",
-    "Address": "6730 Memorial",
-    "Inventory_Status": "Accessory Structure Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22069113.": {
-    "Parcel_Number": "22069113.",
-    "Address": "6815 Rutland",
-    "Inventory_Status": "Side Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060810.": {
-    "Parcel_Number": "22060810.",
-    "Address": "8237 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056744.": {
-    "Parcel_Number": "22056744.",
-    "Address": "8069 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060818.": {
-    "Parcel_Number": "22060818.",
-    "Address": "8109 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001098.": {
-    "Parcel_Number": "22001098.",
-    "Address": "15717 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058044.": {
-    "Parcel_Number": "22058044.",
-    "Address": "8083 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059411-2": {
-    "Parcel_Number": "22059411-2",
-    "Address": "8047 St Marys",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001836-7": {
-    "Parcel_Number": "22001836-7",
-    "Address": "16020 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070927.": {
-    "Parcel_Number": "22070927.",
-    "Address": "7262 Archdale",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22068432.": {
-    "Parcel_Number": "22068432.",
-    "Address": "7757 Clayburn",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058322.": {
-    "Parcel_Number": "22058322.",
-    "Address": "8112 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059369.": {
-    "Parcel_Number": "22059369.",
-    "Address": "8609 St Marys",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22072173.": {
-    "Parcel_Number": "22072173.",
-    "Address": "7461 Archdale",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056783.": {
-    "Parcel_Number": "22056783.",
-    "Address": "7505 Rutherford",
+  "22067398.": {
+    "Parcel_Number": "22067398.",
+    "Address": "6456 Memorial",
     "Inventory_Status": "DLBA Owned Structure",
     "Neighborhood": "Warren Ave Community"
   },
-  "22072176.": {
-    "Parcel_Number": "22072176.",
-    "Address": "7251 Archdale",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22054744.": {
-    "Parcel_Number": "22054744.",
-    "Address": "7839 Forrer",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060821-2": {
-    "Parcel_Number": "22060821-2",
-    "Address": "8091 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22061068-9": {
-    "Parcel_Number": "22061068-9",
-    "Address": "8400 Asbury Park",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058020.": {
-    "Parcel_Number": "22058020.",
-    "Address": "8315 Mansfield",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059432.": {
-    "Parcel_Number": "22059432.",
-    "Address": "7701 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060825.": {
-    "Parcel_Number": "22060825.",
-    "Address": "8065 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22057004.": {
-    "Parcel_Number": "22057004.",
-    "Address": "8222 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059565.": {
-    "Parcel_Number": "22059565.",
-    "Address": "6836 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059635.": {
-    "Parcel_Number": "22059635.",
-    "Address": "8040 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22053499-500": {
-    "Parcel_Number": "22053499-500",
-    "Address": "6787 Montrose",
-    "Inventory_Status": "Oversized Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001125.": {
-    "Parcel_Number": "22001125.",
-    "Address": "16201 Tireman",
-    "Inventory_Status": "Improved Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22052750.": {
-    "Parcel_Number": "22052750.",
-    "Address": "6344 Montrose",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058019.": {
-    "Parcel_Number": "22058019.",
-    "Address": "8401 Mansfield",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059370.": {
-    "Parcel_Number": "22059370.",
-    "Address": "8593 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001806.": {
-    "Parcel_Number": "22001806.",
-    "Address": "16230 Tireman",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22061091.": {
-    "Parcel_Number": "22061091.",
-    "Address": "8630 Asbury Park",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070804.": {
-    "Parcel_Number": "22070804.",
-    "Address": "7777 Longacre",
-    "Inventory_Status": "DLBA Owned Structure",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056733.": {
-    "Parcel_Number": "22056733.",
-    "Address": "8231 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001092.": {
-    "Parcel_Number": "22001092.",
-    "Address": "15681 TIREMAN",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22057005.": {
-    "Parcel_Number": "22057005.",
-    "Address": "8230 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070928.": {
-    "Parcel_Number": "22070928.",
-    "Address": "7460 Archdale",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001143-4": {
-    "Parcel_Number": "22001143-4",
-    "Address": "16333 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001804-5": {
-    "Parcel_Number": "22001804-5",
-    "Address": "16240 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056953.": {
-    "Parcel_Number": "22056953.",
-    "Address": "7496 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056990.": {
-    "Parcel_Number": "22056990.",
-    "Address": "8046 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058051.": {
-    "Parcel_Number": "22058051.",
-    "Address": "8033 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22067475.": {
-    "Parcel_Number": "22067475.",
-    "Address": "7512 Memorial",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070246.001": {
-    "Parcel_Number": "22070246.001",
-    "Address": "7308 Longacre",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059489.": {
-    "Parcel_Number": "22059489.",
-    "Address": "6785 St Marys",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22068386.": {
-    "Parcel_Number": "22068386.",
-    "Address": "7458 Clayburn",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058284.": {
-    "Parcel_Number": "22058284.",
-    "Address": "7550 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059490.": {
-    "Parcel_Number": "22059490.",
-    "Address": "6781 St Marys",
-    "Inventory_Status": "DLBA Owned Structure",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058258.": {
-    "Parcel_Number": "22058258.",
-    "Address": "7324 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058259.": {
-    "Parcel_Number": "22058259.",
-    "Address": "7332 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001840.": {
-    "Parcel_Number": "22001840.",
-    "Address": "16000 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22061082-3": {
-    "Parcel_Number": "22061082-3",
-    "Address": "8490 Asbury Park",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22061087.": {
-    "Parcel_Number": "22061087.",
-    "Address": "8516 Asbury Park",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059377.": {
-    "Parcel_Number": "22059377.",
-    "Address": "8433 St Marys",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056742.": {
-    "Parcel_Number": "22056742.",
-    "Address": "8091 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056748.": {
-    "Parcel_Number": "22056748.",
-    "Address": "8049 Rutherford",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060828.": {
-    "Parcel_Number": "22060828.",
-    "Address": "8041 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058047.": {
-    "Parcel_Number": "22058047.",
-    "Address": "8063 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058277.": {
-    "Parcel_Number": "22058277.",
-    "Address": "7498 St Marys",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056736.": {
-    "Parcel_Number": "22056736.",
-    "Address": "8211 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058265.": {
-    "Parcel_Number": "22058265.",
-    "Address": "7418 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070243.": {
-    "Parcel_Number": "22070243.",
-    "Address": "7266 Longacre",
+  "22070205.": {
+    "Parcel_Number": "22070205.",
+    "Address": "6702 Longacre",
     "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
@@ -977,351 +41,9 @@
     "Inventory_Status": "DLBA Owned Structure",
     "Neighborhood": "Warren Ave Community"
   },
-  "22060823-4": {
-    "Parcel_Number": "22060823-4",
-    "Address": "8075 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059372.": {
-    "Parcel_Number": "22059372.",
-    "Address": "8463 St Marys",
-    "Inventory_Status": "Oversized Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056734.": {
-    "Parcel_Number": "22056734.",
-    "Address": "8225 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059430.": {
-    "Parcel_Number": "22059430.",
-    "Address": "7719 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22055729.": {
-    "Parcel_Number": "22055729.",
-    "Address": "7776 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060820.": {
-    "Parcel_Number": "22060820.",
-    "Address": "8097 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059614.": {
-    "Parcel_Number": "22059614.",
-    "Address": "7560 Mettetal",
-    "Inventory_Status": "Improved Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059375.": {
-    "Parcel_Number": "22059375.",
-    "Address": "8439 St Marys",
-    "Inventory_Status": "Accessory Structure Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059649.": {
-    "Parcel_Number": "22059649.",
-    "Address": "8210 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058100.": {
-    "Parcel_Number": "22058100.",
-    "Address": "7389 Mansfield",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22061092.": {
-    "Parcel_Number": "22061092.",
-    "Address": "8640 Asbury Park",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059636.": {
-    "Parcel_Number": "22059636.",
-    "Address": "8048 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22067398.": {
-    "Parcel_Number": "22067398.",
-    "Address": "6456 Memorial",
-    "Inventory_Status": "DLBA Owned Structure",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001138-9": {
-    "Parcel_Number": "22001138-9",
-    "Address": "16309 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22052686.": {
-    "Parcel_Number": "22052686.",
-    "Address": "6879 Winthrop",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058029.": {
-    "Parcel_Number": "22058029.",
-    "Address": "8255 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058321.": {
-    "Parcel_Number": "22058321.",
-    "Address": "8104 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056753.": {
-    "Parcel_Number": "22056753.",
-    "Address": "7857 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001140-1": {
-    "Parcel_Number": "22001140-1",
-    "Address": "16317 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059450.": {
-    "Parcel_Number": "22059450.",
-    "Address": "7421 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058065.": {
-    "Parcel_Number": "22058065.",
-    "Address": "7779 Mansfield",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22072178.": {
-    "Parcel_Number": "22072178.",
-    "Address": "7235 Archdale",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058048.": {
-    "Parcel_Number": "22058048.",
-    "Address": "8055 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059381.": {
-    "Parcel_Number": "22059381.",
-    "Address": "8401 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058032-3": {
-    "Parcel_Number": "22058032-3",
-    "Address": "8235 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001146.": {
-    "Parcel_Number": "22001146.",
-    "Address": "16343 Tireman",
-    "Inventory_Status": "DLBA Owned Structure",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060808-9": {
-    "Parcel_Number": "22060808-9",
-    "Address": "8247 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056767.": {
-    "Parcel_Number": "22056767.",
-    "Address": "7759 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22054757.": {
-    "Parcel_Number": "22054757.",
-    "Address": "7735 Forrer",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001800.": {
-    "Parcel_Number": "22001800.",
-    "Address": "16300 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22068366.": {
-    "Parcel_Number": "22068366.",
-    "Address": "7268 CLAYBURN",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22072175.": {
-    "Parcel_Number": "22072175.",
-    "Address": "7257 Archdale",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22068510.": {
-    "Parcel_Number": "22068510.",
-    "Address": "6806 Rutland",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070922.": {
-    "Parcel_Number": "22070922.",
-    "Address": "7226 Archdale",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059654.": {
-    "Parcel_Number": "22059654.",
-    "Address": "8250 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056840.": {
-    "Parcel_Number": "22056840.",
-    "Address": "6765 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056732.": {
-    "Parcel_Number": "22056732.",
-    "Address": "8237 Rutherford",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059652.": {
-    "Parcel_Number": "22059652.",
-    "Address": "8234 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
   "22059679.": {
     "Parcel_Number": "22059679.",
     "Address": "8486 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056991.": {
-    "Parcel_Number": "22056991.",
-    "Address": "8054 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001212-20": {
-    "Parcel_Number": "22001212-20",
-    "Address": "16953 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22055693.": {
-    "Parcel_Number": "22055693.",
-    "Address": "7300 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22069128.": {
-    "Parcel_Number": "22069128.",
-    "Address": "6711 Rutland",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060797.": {
-    "Parcel_Number": "22060797.",
-    "Address": "8411 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001835.": {
-    "Parcel_Number": "22001835.",
-    "Address": "16030 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001136-7": {
-    "Parcel_Number": "22001136-7",
-    "Address": "16301 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058290.": {
-    "Parcel_Number": "22058290.",
-    "Address": "7730 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058102.": {
-    "Parcel_Number": "22058102.",
-    "Address": "7339 Mansfield",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22069100.": {
-    "Parcel_Number": "22069100.",
-    "Address": "6905 Rutland",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059633.": {
-    "Parcel_Number": "22059633.",
-    "Address": "8026 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22054756.": {
-    "Parcel_Number": "22054756.",
-    "Address": "7743 Forrer",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056737.": {
-    "Parcel_Number": "22056737.",
-    "Address": "8201 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001203-4": {
-    "Parcel_Number": "22001203-4",
-    "Address": "16913 Tireman",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22061089.": {
-    "Parcel_Number": "22061089.",
-    "Address": "8610 Asbury Park",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22052860.": {
-    "Parcel_Number": "22052860.",
-    "Address": "7838 Montrose",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070925.": {
-    "Parcel_Number": "22070925.",
-    "Address": "7248 Archdale",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059441.": {
-    "Parcel_Number": "22059441.",
-    "Address": "7497 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059647-8": {
-    "Parcel_Number": "22059647-8",
-    "Address": "8200 Mettetal",
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
@@ -1331,15 +53,381 @@
     "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
-  "22059642.": {
-    "Parcel_Number": "22059642.",
-    "Address": "8090 Mettetal",
+  "22059652.": {
+    "Parcel_Number": "22059652.",
+    "Address": "8234 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060785.": {
+    "Parcel_Number": "22060785.",
+    "Address": "8485 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058278.": {
+    "Parcel_Number": "22058278.",
+    "Address": "7508 St Marys",
+    "Inventory_Status": "Accessory Structure Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056953.": {
+    "Parcel_Number": "22056953.",
+    "Address": "7496 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056732.": {
+    "Parcel_Number": "22056732.",
+    "Address": "8237 Rutherford",
     "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060906.": {
+    "Parcel_Number": "22060906.",
+    "Address": "6781 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070923.": {
+    "Parcel_Number": "22070923.",
+    "Address": "7234 Archdale",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22055693.": {
+    "Parcel_Number": "22055693.",
+    "Address": "7300 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070946.": {
+    "Parcel_Number": "22070946.",
+    "Address": "7754 Archdale",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056736.": {
+    "Parcel_Number": "22056736.",
+    "Address": "8211 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22065261.": {
+    "Parcel_Number": "22065261.",
+    "Address": "6879 Grandmont",
+    "Inventory_Status": "DLBA Owned Structure",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056778.": {
+    "Parcel_Number": "22056778.",
+    "Address": "7545 Rutherford",
+    "Inventory_Status": "Side Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22064636.": {
+    "Parcel_Number": "22064636.",
+    "Address": "7296 Grandmont",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22067442.": {
+    "Parcel_Number": "22067442.",
+    "Address": "6916 Memorial",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058138.": {
+    "Parcel_Number": "22058138.",
+    "Address": "6787 Mansfield",
+    "Inventory_Status": "Side Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060823-4": {
+    "Parcel_Number": "22060823-4",
+    "Address": "8075 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059443.": {
+    "Parcel_Number": "22059443.",
+    "Address": "7475 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059377.": {
+    "Parcel_Number": "22059377.",
+    "Address": "8433 St Marys",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058296.": {
+    "Parcel_Number": "22058296.",
+    "Address": "7772 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070926.": {
+    "Parcel_Number": "22070926.",
+    "Address": "7256 Archdale",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059634.": {
+    "Parcel_Number": "22059634.",
+    "Address": "8034 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22068587.": {
+    "Parcel_Number": "22068587.",
+    "Address": "7830 Rutland",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22068386.": {
+    "Parcel_Number": "22068386.",
+    "Address": "7458 Clayburn",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22062455.": {
+    "Parcel_Number": "22062455.",
+    "Address": "7336 Woodmont",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22052750.": {
+    "Parcel_Number": "22052750.",
+    "Address": "6344 Montrose",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058056.": {
+    "Parcel_Number": "22058056.",
+    "Address": "7843 Mansfield",
+    "Inventory_Status": "DLBA Owned Structure",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22068432.": {
+    "Parcel_Number": "22068432.",
+    "Address": "7757 Clayburn",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058051.": {
+    "Parcel_Number": "22058051.",
+    "Address": "8033 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059653.": {
+    "Parcel_Number": "22059653.",
+    "Address": "8240 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059649.": {
+    "Parcel_Number": "22059649.",
+    "Address": "8210 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060778.": {
+    "Parcel_Number": "22060778.",
+    "Address": "16300 Van Buren",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058068.": {
+    "Parcel_Number": "22058068.",
+    "Address": "7761 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070246.001": {
+    "Parcel_Number": "22070246.001",
+    "Address": "7308 Longacre",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060819.": {
+    "Parcel_Number": "22060819.",
+    "Address": "8103 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001095-6": {
+    "Parcel_Number": "22001095-6",
+    "Address": "15707 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059431.": {
+    "Parcel_Number": "22059431.",
+    "Address": "7711 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22069128.": {
+    "Parcel_Number": "22069128.",
+    "Address": "6711 Rutland",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059635.": {
+    "Parcel_Number": "22059635.",
+    "Address": "8040 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059371.": {
+    "Parcel_Number": "22059371.",
+    "Address": "8587 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058019.": {
+    "Parcel_Number": "22058019.",
+    "Address": "8401 Mansfield",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058265.": {
+    "Parcel_Number": "22058265.",
+    "Address": "7418 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
   "22059641.": {
     "Parcel_Number": "22059641.",
     "Address": "8080 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056748.": {
+    "Parcel_Number": "22056748.",
+    "Address": "8049 Rutherford",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070927.": {
+    "Parcel_Number": "22070927.",
+    "Address": "7262 Archdale",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058040.": {
+    "Parcel_Number": "22058040.",
+    "Address": "8111 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059650.": {
+    "Parcel_Number": "22059650.",
+    "Address": "8220 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22061037.": {
+    "Parcel_Number": "22061037.",
+    "Address": "8046 Asbury Park",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056954.": {
+    "Parcel_Number": "22056954.",
+    "Address": "7502 Mansfield",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22069072.": {
+    "Parcel_Number": "22069072.",
+    "Address": "7747 Rutland",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001142.": {
+    "Parcel_Number": "22001142.",
+    "Address": "16325 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056990.": {
+    "Parcel_Number": "22056990.",
+    "Address": "8046 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22055729.": {
+    "Parcel_Number": "22055729.",
+    "Address": "7776 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060780.": {
+    "Parcel_Number": "22060780.",
+    "Address": "8513 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056987.": {
+    "Parcel_Number": "22056987.",
+    "Address": "8026 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058100.": {
+    "Parcel_Number": "22058100.",
+    "Address": "7389 Mansfield",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22053499-500": {
+    "Parcel_Number": "22053499-500",
+    "Address": "6787 Montrose",
+    "Inventory_Status": "Oversized Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059655.": {
+    "Parcel_Number": "22059655.",
+    "Address": "8260 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070269.": {
+    "Parcel_Number": "22070269.",
+    "Address": "7786 Longacre",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056753.": {
+    "Parcel_Number": "22056753.",
+    "Address": "7857 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001800.": {
+    "Parcel_Number": "22001800.",
+    "Address": "16300 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22072173.": {
+    "Parcel_Number": "22072173.",
+    "Address": "7461 Archdale",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22072737.001": {
+    "Parcel_Number": "22072737.001",
+    "Address": "6314 Southfield",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22057003.": {
+    "Parcel_Number": "22057003.",
+    "Address": "8216 Mansfield",
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
@@ -1349,15 +437,39 @@
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
-  "22058297.": {
-    "Parcel_Number": "22058297.",
-    "Address": "7778 St Marys",
+  "22058327.": {
+    "Parcel_Number": "22058327.",
+    "Address": "8220 St Marys",
     "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
-  "22058030.": {
-    "Parcel_Number": "22058030.",
-    "Address": "8257 Mansfield",
+  "22072176.": {
+    "Parcel_Number": "22072176.",
+    "Address": "7251 Archdale",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060799.": {
+    "Parcel_Number": "22060799.",
+    "Address": "8315 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059665.": {
+    "Parcel_Number": "22059665.",
+    "Address": "8402 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059430.": {
+    "Parcel_Number": "22059430.",
+    "Address": "7719 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058330-1": {
+    "Parcel_Number": "22058330-1",
+    "Address": "8240 St Marys",
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
@@ -1367,21 +479,249 @@
     "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
-  "22059371.": {
-    "Parcel_Number": "22059371.",
-    "Address": "8587 St Marys",
+  "22059680-92": {
+    "Parcel_Number": "22059680-92",
+    "Address": "8490 Mettetal",
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
-  "22058023.": {
-    "Parcel_Number": "22058023.",
-    "Address": "8287 Mansfield",
+  "22001836-7": {
+    "Parcel_Number": "22001836-7",
+    "Address": "16020 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060798.": {
+    "Parcel_Number": "22060798.",
+    "Address": "8401 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22054757.": {
+    "Parcel_Number": "22054757.",
+    "Address": "7735 Forrer",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056840.": {
+    "Parcel_Number": "22056840.",
+    "Address": "6765 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056734.": {
+    "Parcel_Number": "22056734.",
+    "Address": "8225 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22053484.": {
+    "Parcel_Number": "22053484.",
+    "Address": "6891 Montrose",
     "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
-  "22060780.": {
-    "Parcel_Number": "22060780.",
-    "Address": "8513 Mettetal",
+  "22058048.": {
+    "Parcel_Number": "22058048.",
+    "Address": "8055 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22057004.": {
+    "Parcel_Number": "22057004.",
+    "Address": "8222 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22061091.": {
+    "Parcel_Number": "22061091.",
+    "Address": "8630 Asbury Park",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056741.": {
+    "Parcel_Number": "22056741.",
+    "Address": "8097 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22068573.": {
+    "Parcel_Number": "22068573.",
+    "Address": "7736 Rutland",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056745-6": {
+    "Parcel_Number": "22056745-6",
+    "Address": "8061 Rutherford",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058029.": {
+    "Parcel_Number": "22058029.",
+    "Address": "8255 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058290.": {
+    "Parcel_Number": "22058290.",
+    "Address": "7730 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059370.": {
+    "Parcel_Number": "22059370.",
+    "Address": "8593 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058295.": {
+    "Parcel_Number": "22058295.",
+    "Address": "7764 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22057005.": {
+    "Parcel_Number": "22057005.",
+    "Address": "8230 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056991.": {
+    "Parcel_Number": "22056991.",
+    "Address": "8054 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059489.": {
+    "Parcel_Number": "22059489.",
+    "Address": "6785 St Marys",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001146.": {
+    "Parcel_Number": "22001146.",
+    "Address": "16343 Tireman",
+    "Inventory_Status": "DLBA Owned Structure",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058284.": {
+    "Parcel_Number": "22058284.",
+    "Address": "7550 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070924.": {
+    "Parcel_Number": "22070924.",
+    "Address": "7240 Archdale",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059654.": {
+    "Parcel_Number": "22059654.",
+    "Address": "8250 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059381.": {
+    "Parcel_Number": "22059381.",
+    "Address": "8401 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22068522.": {
+    "Parcel_Number": "22068522.",
+    "Address": "6890 Rutland",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056783.": {
+    "Parcel_Number": "22056783.",
+    "Address": "7505 Rutherford",
+    "Inventory_Status": "DLBA Owned Structure",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22052860.": {
+    "Parcel_Number": "22052860.",
+    "Address": "7838 Montrose",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22072751.": {
+    "Parcel_Number": "22072751.",
+    "Address": "6700 Southfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22053429.": {
+    "Parcel_Number": "22053429.",
+    "Address": "7815 Montrose",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22055731.": {
+    "Parcel_Number": "22055731.",
+    "Address": "7792 Rutherford",
+    "Inventory_Status": "Side Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001840.": {
+    "Parcel_Number": "22001840.",
+    "Address": "16000 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056747.": {
+    "Parcel_Number": "22056747.",
+    "Address": "8055 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059602.": {
+    "Parcel_Number": "22059602.",
+    "Address": "7460 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056751.": {
+    "Parcel_Number": "22056751.",
+    "Address": "8027 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058297.": {
+    "Parcel_Number": "22058297.",
+    "Address": "7778 St Marys",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22067415.": {
+    "Parcel_Number": "22067415.",
+    "Address": "6730 Memorial",
+    "Inventory_Status": "Accessory Structure Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070246.002L": {
+    "Parcel_Number": "22070246.002L",
+    "Address": "7310 Longacre",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060805.": {
+    "Parcel_Number": "22060805.",
+    "Address": "8275 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22072177.": {
+    "Parcel_Number": "22072177.",
+    "Address": "7241 Archdale",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058286.": {
+    "Parcel_Number": "22058286.",
+    "Address": "7700 St Marys",
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
@@ -1391,15 +731,213 @@
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
+  "22058322.": {
+    "Parcel_Number": "22058322.",
+    "Address": "8112 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22068365.": {
+    "Parcel_Number": "22068365.",
+    "Address": "7260 Clayburn",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
   "22001117-22": {
     "Parcel_Number": "22001117-22",
     "Address": "15845 Tireman",
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
-  "22058021.": {
-    "Parcel_Number": "22058021.",
-    "Address": "8301 Mansfield",
+  "22058259.": {
+    "Parcel_Number": "22058259.",
+    "Address": "7332 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060797.": {
+    "Parcel_Number": "22060797.",
+    "Address": "8411 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070805.": {
+    "Parcel_Number": "22070805.",
+    "Address": "7771 Longacre",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001125.": {
+    "Parcel_Number": "22001125.",
+    "Address": "16201 Tireman",
+    "Inventory_Status": "Improved Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058043.": {
+    "Parcel_Number": "22058043.",
+    "Address": "8089 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059369.": {
+    "Parcel_Number": "22059369.",
+    "Address": "8609 St Marys",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059450.": {
+    "Parcel_Number": "22059450.",
+    "Address": "7421 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060811-2": {
+    "Parcel_Number": "22060811-2",
+    "Address": "8229 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058032-3": {
+    "Parcel_Number": "22058032-3",
+    "Address": "8235 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060828.": {
+    "Parcel_Number": "22060828.",
+    "Address": "8041 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22069078.": {
+    "Parcel_Number": "22069078.",
+    "Address": "7551 Rutland",
+    "Inventory_Status": "Improved Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059562.": {
+    "Parcel_Number": "22059562.",
+    "Address": "6816 Mettetal",
+    "Inventory_Status": "DLBA Owned Structure",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22069113.": {
+    "Parcel_Number": "22069113.",
+    "Address": "6815 Rutland",
+    "Inventory_Status": "Side Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001806.": {
+    "Parcel_Number": "22001806.",
+    "Address": "16230 Tireman",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059642.": {
+    "Parcel_Number": "22059642.",
+    "Address": "8090 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001136-7": {
+    "Parcel_Number": "22001136-7",
+    "Address": "16301 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060905.": {
+    "Parcel_Number": "22060905.",
+    "Address": "6785 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056744.": {
+    "Parcel_Number": "22056744.",
+    "Address": "8069 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058030.": {
+    "Parcel_Number": "22058030.",
+    "Address": "8257 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058258.": {
+    "Parcel_Number": "22058258.",
+    "Address": "7324 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059441.": {
+    "Parcel_Number": "22059441.",
+    "Address": "7497 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059490.": {
+    "Parcel_Number": "22059490.",
+    "Address": "6781 St Marys",
+    "Inventory_Status": "DLBA Owned Structure",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22061082-3": {
+    "Parcel_Number": "22061082-3",
+    "Address": "8490 Asbury Park",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059419.": {
+    "Parcel_Number": "22059419.",
+    "Address": "7807 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056740.": {
+    "Parcel_Number": "22056740.",
+    "Address": "8099 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001203-4": {
+    "Parcel_Number": "22001203-4",
+    "Address": "16913 Tireman",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070925.": {
+    "Parcel_Number": "22070925.",
+    "Address": "7248 Archdale",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059671.": {
+    "Parcel_Number": "22059671.",
+    "Address": "8434 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22053430.": {
+    "Parcel_Number": "22053430.",
+    "Address": "7807 Montrose",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056823.": {
+    "Parcel_Number": "22056823.",
+    "Address": "6885 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22061087.": {
+    "Parcel_Number": "22061087.",
+    "Address": "8516 Asbury Park",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059391.": {
+    "Parcel_Number": "22059391.",
+    "Address": "8267 ST MARYS",
     "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
@@ -1415,34 +953,166 @@
     "Inventory_Status": "Side Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
-  "22058057.": {
-    "Parcel_Number": "22058057.",
-    "Address": "7835 Mansfield",
-    "Inventory_Status": "Side Lot For Sale",
+  "22052686.": {
+    "Parcel_Number": "22052686.",
+    "Address": "6879 Winthrop",
+    "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
-  "22058278.": {
-    "Parcel_Number": "22058278.",
-    "Address": "7508 St Marys",
-    "Inventory_Status": "Accessory Structure Lot For Sale",
+  "22069100.": {
+    "Parcel_Number": "22069100.",
+    "Address": "6905 Rutland",
+    "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
-  "22059650.": {
-    "Parcel_Number": "22059650.",
-    "Address": "8220 Mettetal",
+  "22061068-9": {
+    "Parcel_Number": "22061068-9",
+    "Address": "8400 Asbury Park",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001091.": {
+    "Parcel_Number": "22001091.",
+    "Address": "15671 Tireman",
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
-  "22069078.": {
-    "Parcel_Number": "22069078.",
-    "Address": "7551 Rutland",
-    "Inventory_Status": "Improved Lot For Sale",
+  "22054744.": {
+    "Parcel_Number": "22054744.",
+    "Address": "7839 Forrer",
+    "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
-  "22070246.002L": {
-    "Parcel_Number": "22070246.002L",
-    "Address": "7310 Longacre",
+  "22058079.": {
+    "Parcel_Number": "22058079.",
+    "Address": "7543 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22061036.": {
+    "Parcel_Number": "22061036.",
+    "Address": "8036 Asbury Park",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058277.": {
+    "Parcel_Number": "22058277.",
+    "Address": "7498 St Marys",
     "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058065.": {
+    "Parcel_Number": "22058065.",
+    "Address": "7779 Mansfield",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001093.": {
+    "Parcel_Number": "22001093.",
+    "Address": "15691 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060820.": {
+    "Parcel_Number": "22060820.",
+    "Address": "8097 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22067993-4": {
+    "Parcel_Number": "22067993-4",
+    "Address": "6711 Memorial",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056742.": {
+    "Parcel_Number": "22056742.",
+    "Address": "8091 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22061089.": {
+    "Parcel_Number": "22061089.",
+    "Address": "8610 Asbury Park",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059647-8": {
+    "Parcel_Number": "22059647-8",
+    "Address": "8200 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22068577.": {
+    "Parcel_Number": "22068577.",
+    "Address": "7756 Rutland",
+    "Inventory_Status": "Side Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058102.": {
+    "Parcel_Number": "22058102.",
+    "Address": "7339 Mansfield",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058044.": {
+    "Parcel_Number": "22058044.",
+    "Address": "8083 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056829.": {
+    "Parcel_Number": "22056829.",
+    "Address": "6843 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22072175.": {
+    "Parcel_Number": "22072175.",
+    "Address": "7257 Archdale",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059375.": {
+    "Parcel_Number": "22059375.",
+    "Address": "8439 St Marys",
+    "Inventory_Status": "Accessory Structure Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060821-2": {
+    "Parcel_Number": "22060821-2",
+    "Address": "8091 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060818.": {
+    "Parcel_Number": "22060818.",
+    "Address": "8109 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001104.": {
+    "Parcel_Number": "22001104.",
+    "Address": "15737 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058023.": {
+    "Parcel_Number": "22058023.",
+    "Address": "8287 Mansfield",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060826.": {
+    "Parcel_Number": "22060826.",
+    "Address": "8055 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22057010.002": {
+    "Parcel_Number": "22057010.002",
+    "Address": "8280 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
   "22059390.": {
@@ -1451,159 +1121,21 @@
     "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
-  "22058043.": {
-    "Parcel_Number": "22058043.",
-    "Address": "8089 Mansfield",
+  "22001798-9": {
+    "Parcel_Number": "22001798-9",
+    "Address": "16310 Tireman",
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
-  "22059656-7": {
-    "Parcel_Number": "22059656-7",
-    "Address": "8270 Mettetal",
+  "22068572.": {
+    "Parcel_Number": "22068572.",
+    "Address": "7728 Rutland",
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
-  "22058217.": {
-    "Parcel_Number": "22058217.",
-    "Address": "6738 St Marys",
-    "Inventory_Status": "DLBA Owned Structure",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060906.": {
-    "Parcel_Number": "22060906.",
-    "Address": "6781 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058138.": {
-    "Parcel_Number": "22058138.",
-    "Address": "6787 Mansfield",
-    "Inventory_Status": "Side Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056954.": {
-    "Parcel_Number": "22056954.",
-    "Address": "7502 Mansfield",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070269.": {
-    "Parcel_Number": "22070269.",
-    "Address": "7786 Longacre",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059680-92": {
-    "Parcel_Number": "22059680-92",
-    "Address": "8490 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058042.": {
-    "Parcel_Number": "22058042.",
-    "Address": "8097 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22056751.": {
-    "Parcel_Number": "22056751.",
-    "Address": "8027 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22061038.": {
-    "Parcel_Number": "22061038.",
-    "Address": "8054 Asbury Park",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059431.": {
-    "Parcel_Number": "22059431.",
-    "Address": "7711 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22001226.": {
-    "Parcel_Number": "22001226.",
-    "Address": "17027 Tireman",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22068587.": {
-    "Parcel_Number": "22068587.",
-    "Address": "7830 Rutland",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070926.": {
-    "Parcel_Number": "22070926.",
-    "Address": "7256 Archdale",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059419.": {
-    "Parcel_Number": "22059419.",
-    "Address": "7807 St Marys",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22058068.": {
-    "Parcel_Number": "22058068.",
-    "Address": "7761 Mansfield",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070862.": {
-    "Parcel_Number": "22070862.",
-    "Address": "6711 Longacre",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22055731.": {
-    "Parcel_Number": "22055731.",
-    "Address": "7792 Rutherford",
-    "Inventory_Status": "Side Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22068573.": {
-    "Parcel_Number": "22068573.",
-    "Address": "7736 Rutland",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22070826.": {
-    "Parcel_Number": "22070826.",
-    "Address": "7265 Longacre",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060819.": {
-    "Parcel_Number": "22060819.",
-    "Address": "8103 Mettetal",
-    "Inventory_Status": "DLBA Owned Lot",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22055728.": {
-    "Parcel_Number": "22055728.",
-    "Address": "7768 Rutherford",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22060799.": {
-    "Parcel_Number": "22060799.",
-    "Address": "8315 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22059671.": {
-    "Parcel_Number": "22059671.",
-    "Address": "8434 Mettetal",
-    "Inventory_Status": "Neighborhood Lot For Sale",
-    "Neighborhood": "Warren Ave Community"
-  },
-  "22069065.": {
-    "Parcel_Number": "22069065.",
-    "Address": "7801 Rutland",
+  "22001143-4": {
+    "Parcel_Number": "22001143-4",
+    "Address": "16333 Tireman",
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
@@ -1613,15 +1145,369 @@
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
-  "22070205.": {
-    "Parcel_Number": "22070205.",
-    "Address": "6702 Longacre",
+  "22001835.": {
+    "Parcel_Number": "22001835.",
+    "Address": "16030 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070202.": {
+    "Parcel_Number": "22070202.",
+    "Address": "6530 Longacre",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058020.": {
+    "Parcel_Number": "22058020.",
+    "Address": "8315 Mansfield",
     "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
-  "22068365.": {
-    "Parcel_Number": "22068365.",
-    "Address": "7260 Clayburn",
+  "22060804.": {
+    "Parcel_Number": "22060804.",
+    "Address": "8279 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060825.": {
+    "Parcel_Number": "22060825.",
+    "Address": "8065 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070862.": {
+    "Parcel_Number": "22070862.",
+    "Address": "6711 Longacre",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059660-1": {
+    "Parcel_Number": "22059660-1",
+    "Address": "8294 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059614.": {
+    "Parcel_Number": "22059614.",
+    "Address": "7560 Mettetal",
+    "Inventory_Status": "Improved Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001138-9": {
+    "Parcel_Number": "22001138-9",
+    "Address": "16309 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060831.": {
+    "Parcel_Number": "22060831.",
+    "Address": "7841 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058121.": {
+    "Parcel_Number": "22058121.",
+    "Address": "6907 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22068510.": {
+    "Parcel_Number": "22068510.",
+    "Address": "6806 Rutland",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22052845.": {
+    "Parcel_Number": "22052845.",
+    "Address": "7720 Montrose",
+    "Inventory_Status": "Oversized Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070826.": {
+    "Parcel_Number": "22070826.",
+    "Address": "7265 Longacre",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059633.": {
+    "Parcel_Number": "22059633.",
+    "Address": "8026 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056733.": {
+    "Parcel_Number": "22056733.",
+    "Address": "8231 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056935.": {
+    "Parcel_Number": "22056935.",
+    "Address": "7326 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059372.": {
+    "Parcel_Number": "22059372.",
+    "Address": "8463 St Marys",
+    "Inventory_Status": "Oversized Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070928.": {
+    "Parcel_Number": "22070928.",
+    "Address": "7460 Archdale",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059449.": {
+    "Parcel_Number": "22059449.",
+    "Address": "7427 ST MARYS",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058049.": {
+    "Parcel_Number": "22058049.",
+    "Address": "8047 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058041.": {
+    "Parcel_Number": "22058041.",
+    "Address": "8105 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058042.": {
+    "Parcel_Number": "22058042.",
+    "Address": "8097 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058057.": {
+    "Parcel_Number": "22058057.",
+    "Address": "7835 Mansfield",
+    "Inventory_Status": "Side Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059432.": {
+    "Parcel_Number": "22059432.",
+    "Address": "7701 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22069065.": {
+    "Parcel_Number": "22069065.",
+    "Address": "7801 Rutland",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001140-1": {
+    "Parcel_Number": "22001140-1",
+    "Address": "16317 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001801-2": {
+    "Parcel_Number": "22001801-2",
+    "Address": "16250 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070813.": {
+    "Parcel_Number": "22070813.",
+    "Address": "7703 Longacre",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001094.": {
+    "Parcel_Number": "22001094.",
+    "Address": "15703 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060817.": {
+    "Parcel_Number": "22060817.",
+    "Address": "8199 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22057010.001": {
+    "Parcel_Number": "22057010.001",
+    "Address": "8270 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056743.": {
+    "Parcel_Number": "22056743.",
+    "Address": "8083 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059668.": {
+    "Parcel_Number": "22059668.",
+    "Address": "8418 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058021.": {
+    "Parcel_Number": "22058021.",
+    "Address": "8301 Mansfield",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22065930.": {
+    "Parcel_Number": "22065930.",
+    "Address": "6342 Abington Ave",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001838-9": {
+    "Parcel_Number": "22001838-9",
+    "Address": "16010 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059414.": {
+    "Parcel_Number": "22059414.",
+    "Address": "8029 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059636.": {
+    "Parcel_Number": "22059636.",
+    "Address": "8048 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059487.": {
+    "Parcel_Number": "22059487.",
+    "Address": "6793 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22072174.": {
+    "Parcel_Number": "22072174.",
+    "Address": "7263 Archdale",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060813.": {
+    "Parcel_Number": "22060813.",
+    "Address": "8219 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056735.": {
+    "Parcel_Number": "22056735.",
+    "Address": "8221 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058321.": {
+    "Parcel_Number": "22058321.",
+    "Address": "8104 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001098.": {
+    "Parcel_Number": "22001098.",
+    "Address": "15717 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001226.": {
+    "Parcel_Number": "22001226.",
+    "Address": "17027 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22061090.": {
+    "Parcel_Number": "22061090.",
+    "Address": "8620 Asbury Park",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070922.": {
+    "Parcel_Number": "22070922.",
+    "Address": "7226 Archdale",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22068366.": {
+    "Parcel_Number": "22068366.",
+    "Address": "7268 CLAYBURN",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060810.": {
+    "Parcel_Number": "22060810.",
+    "Address": "8237 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22072178.": {
+    "Parcel_Number": "22072178.",
+    "Address": "7235 Archdale",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22061038.": {
+    "Parcel_Number": "22061038.",
+    "Address": "8054 Asbury Park",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058217.": {
+    "Parcel_Number": "22058217.",
+    "Address": "6738 St Marys",
+    "Inventory_Status": "DLBA Owned Structure",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22055728.": {
+    "Parcel_Number": "22055728.",
+    "Address": "7768 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001212-20": {
+    "Parcel_Number": "22001212-20",
+    "Address": "16953 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056989.": {
+    "Parcel_Number": "22056989.",
+    "Address": "8040 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22054756.": {
+    "Parcel_Number": "22054756.",
+    "Address": "7743 Forrer",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059565.": {
+    "Parcel_Number": "22059565.",
+    "Address": "6836 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059442.": {
+    "Parcel_Number": "22059442.",
+    "Address": "7485 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22067475.": {
+    "Parcel_Number": "22067475.",
+    "Address": "7512 Memorial",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001803.": {
+    "Parcel_Number": "22001803.",
+    "Address": "16246 Tireman",
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
@@ -1631,27 +1517,141 @@
     "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
-  "22053429.": {
-    "Parcel_Number": "22053429.",
-    "Address": "7815 Montrose",
+  "22001231.": {
+    "Parcel_Number": "22001231.",
+    "Address": "17619 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001092.": {
+    "Parcel_Number": "22001092.",
+    "Address": "15681 TIREMAN",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059411-2": {
+    "Parcel_Number": "22059411-2",
+    "Address": "8047 St Marys",
     "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   },
-  "22058296.": {
-    "Parcel_Number": "22058296.",
-    "Address": "7772 St Marys",
+  "22059656-7": {
+    "Parcel_Number": "22059656-7",
+    "Address": "8270 Mettetal",
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
-  "22001093.": {
-    "Parcel_Number": "22001093.",
-    "Address": "15691 Tireman",
+  "22059380.": {
+    "Parcel_Number": "22059380.",
+    "Address": "8411 St Marys",
     "Inventory_Status": "Neighborhood Lot For Sale",
     "Neighborhood": "Warren Ave Community"
   },
-  "22060826.": {
-    "Parcel_Number": "22060826.",
-    "Address": "8055 Mettetal",
+  "22056767.": {
+    "Parcel_Number": "22056767.",
+    "Address": "7759 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060808-9": {
+    "Parcel_Number": "22060808-9",
+    "Address": "8247 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058114.": {
+    "Parcel_Number": "22058114.",
+    "Address": "7257 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001100.": {
+    "Parcel_Number": "22001100.",
+    "Address": "15727 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059378-9": {
+    "Parcel_Number": "22059378-9",
+    "Address": "8421 St Marys",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22056737.": {
+    "Parcel_Number": "22056737.",
+    "Address": "8201 Rutherford",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058059.": {
+    "Parcel_Number": "22058059.",
+    "Address": "7821 Mansfield",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070804.": {
+    "Parcel_Number": "22070804.",
+    "Address": "7777 Longacre",
+    "Inventory_Status": "DLBA Owned Structure",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22058047.": {
+    "Parcel_Number": "22058047.",
+    "Address": "8063 Mansfield",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22059651.": {
+    "Parcel_Number": "22059651.",
+    "Address": "8230 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070243.": {
+    "Parcel_Number": "22070243.",
+    "Address": "7266 Longacre",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22070800.": {
+    "Parcel_Number": "22070800.",
+    "Address": "7811 Longacre",
+    "Inventory_Status": "Side Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22001804-5": {
+    "Parcel_Number": "22001804-5",
+    "Address": "16240 Tireman",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060827.": {
+    "Parcel_Number": "22060827.",
+    "Address": "8047 Mettetal",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22072154.": {
+    "Parcel_Number": "22072154.",
+    "Address": "7763 Archdale",
+    "Inventory_Status": "DLBA Owned Lot",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22053519-20": {
+    "Parcel_Number": "22053519-20",
+    "Address": "6567 Montrose",
+    "Inventory_Status": "Oversized Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060779.": {
+    "Parcel_Number": "22060779.",
+    "Address": "8515 Mettetal",
+    "Inventory_Status": "Neighborhood Lot For Sale",
+    "Neighborhood": "Warren Ave Community"
+  },
+  "22060830.": {
+    "Parcel_Number": "22060830.",
+    "Address": "8027 Mettetal",
     "Inventory_Status": "DLBA Owned Lot",
     "Neighborhood": "Warren Ave Community"
   }
